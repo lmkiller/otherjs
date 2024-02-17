@@ -13,6 +13,7 @@ function FindProxyForURL(url, host) {
     var list = [
         't.co',
         '21mm.cc',
+        '51md.me',
         'twitter.com',
         'twimg.com',
         'posterous.com',
