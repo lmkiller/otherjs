@@ -14,6 +14,7 @@ function FindProxyForURL(url, host) {
         't.co',
         '21mm.cc',
         '51md.me',
+        'ip138.com',
         'twitter.com',
         'twimg.com',
         'posterous.com',
